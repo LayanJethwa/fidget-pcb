@@ -13,8 +13,11 @@ There are 6 different modules, each of which has a different function:
 
 ## Schematic
 
+![](https://github.com/LayanJethwa/fidget-pcb/blob/main/images/schematic.png)
 ## PCB
 
+![](https://github.com/LayanJethwa/fidget-pcb/blob/main/images/pcb.png)
+![](https://github.com/LayanJethwa/fidget-pcb/blob/main/images/3d-model.png)
 ## BOM
 
 - 1x battery cell holder
