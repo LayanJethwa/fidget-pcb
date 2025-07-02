@@ -1,6 +1,7 @@
 # fidget-pcb
 
 This is a fidget toy PCB that I made in Kicad. The layout currently is rectangular, but if you change the arrangement and print on 6 different PCBs, it should be possible to create a fidget cube.
+Slack username: Layan Jethwa
 
 There are 6 different modules, each of which has a different function:
 - 6 different LEDs turn on if you press a button
