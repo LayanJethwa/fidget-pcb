@@ -9,3 +9,19 @@ There are 6 different modules, each of which has a different function:
 - A photo resistor that sounds the buzzer when blocked
 - Two buttons, which when pressed at the same time, activate the LEDs
 - Four buttons that are there for the clicky sound
+
+
+## Schematic
+
+## PCB
+
+## BOM
+
+- 1x battery cell holder
+- 6x LED
+- 1x flat motor
+- 9x NPN transistor
+- 1x photo resistor
+- 20x resistor
+- 2x potentiometer
+- 8x button
